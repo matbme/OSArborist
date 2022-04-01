@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.matbme.OSArborist</id>
+
+  <name>OSArborist</name>
+  <summary>An OSTree graphical manager</summary>
+
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <description>
+    <p>
+      TBD
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.github.matbme.OSArborist.desktop</launchable>
+</component>

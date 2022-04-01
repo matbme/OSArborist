@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=OSArborist
+Comment=An OSTree graphical manager
+Categories=System;
+
+Icon=OSArborist
+Exec=OSArborist
+Terminal=false
